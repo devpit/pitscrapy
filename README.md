@@ -88,16 +88,6 @@ The extracted data can be used for detailed analysis, such as checking the frequ
 
 For students and researchers, PitScrapy is a valuable tool for learning about web scraping and data analysis. Use the collected data for research projects, case studies, or to better understand how web pages are built.
 
-## Contribution
-
-If you want to contribute to the development of PitScrapy, follow these steps:
-
-1. Fork the repository.
-2. Create a branch for your changes (`git checkout -b feature/new-feature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Create a Pull Request.
-
 ## Support
 
 If you encounter issues or have questions, feel free to open an issue on [GitHub](https://github.com/devpit/pitscrapy/issues).
